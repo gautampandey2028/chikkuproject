@@ -1,0 +1,12 @@
+ul li{
+    list-style: none;
+}
+.useridentity li{
+margin:0 12px;
+}
+.userimage{
+    border-radius: 100%;
+    max-width: 100%;
+    height:30px;
+    width:30px;
+}
